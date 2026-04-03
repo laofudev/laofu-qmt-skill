@@ -203,3 +203,7 @@ MIT
 ## 作者
 
 [资源老夫](https://github.com/your-username) — 公众号「资源老夫」
+
+<div align="center">
+  <img src="images/感谢关注.png" alt="感谢关注" width="400"/>
+</div>
