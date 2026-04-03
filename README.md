@@ -24,7 +24,7 @@ laofuqmt 是一个 [WorkBuddy](https://www.codebuddy.cn) Skill，封装了 QMT�
 
 ```bash
 # 克隆到 WorkBuddy skills 目录
-git clone https://github.com/your-username/laofuqmt.git ~/.workbuddy/skills/laofuqmt
+git clone https://github.com/laofudev/laofu-qmt-skill.git ~/.workbuddy/skills/laofuqmt
 ```
 
 ### 3. 配置
@@ -202,7 +202,7 @@ MIT
 
 ## 作者
 
-[资源老夫](https://github.com/your-username) — 公众号「资源老夫」
+[资源老夫](https://github.com/laofudev) — 公众号「资源老夫」
 
 <div align="center">
   <img src="images/感谢关注.png" alt="感谢关注" width="400"/>
